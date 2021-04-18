@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+  }
+a{
+    color:aliceblue;
+    align-self:baseline ;
+}
+
+h2
+{
+   padding-top: 12px;
+   font-family: Georgia, 'Times New Roman', Times, serif;  
+   font-style: oblique;
+   color: black;
+}
+    
+
+ul {
+    list-style-type: none;
+    float: none;
+    position: absolute;
+  
+    left: 75%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    text-align:centre;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    
+  }
+  
+  li a {
+    display:block;
+    color:white;
+    padding: 30px 20px;
+    text-decoration:solid;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: sans-serif;
+    width:none;
+    float: left;
+    
+  
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color:black;
+    color: white;
+  }
+
+.nature{
+    text-align: center;
+    color:white;
+    margin: 10px;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.contact{
+  color: black;
+  font-family:'Courier New', Courier, monospace ;
+}
+.about{
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 70px;
+  padding-left: 700px;
+  font-style: oblique;
+  font-weight: bolder;
+}
+.resume{
+  
+  font-weight: bold;
+  color: white;
+}
+.res{
+  color: white;
+  font-family: monospaces;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 25px;
+ 
+}
+.set{
+  font-size: 15px;
+  font-family: cursive;
+  color: white;
+  border: 1px;
+}
+
+
